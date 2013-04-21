@@ -1,0 +1,26 @@
+= Stepper Controller for Lyman Extruder
+
+Stepper control for a Lyman Extruder.
+
+This project uses these components.
+
+- arduino nano
+  http://arduino.cc/en/Main/ArduinoBoardNano
+- reprap stepper motor driver v2.3 (SMDv2.3)
+  http://reprap.org/wiki/Stepper_Motor_Driver_2.3
+
+It depends on these tools and libs.
+
+- Arduino IDE 1.0.1
+  http://arduino.cc/en/Main/Software
+- Potentiometer Library
+  http://playground.arduino.cc/Code/Potentiometer 
+
+== Copyright
+
+Lucas Bickel
+2013, Alle Rechte vorbehalten
+
+== License
+
+GNU Affero General Public License, version 3
